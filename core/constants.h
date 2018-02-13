@@ -1,0 +1,2 @@
+
+int photocellThreshold = 200;
